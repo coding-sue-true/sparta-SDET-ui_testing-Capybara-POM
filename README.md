@@ -1,0 +1,1 @@
+# sparta-SDET-ui_testing-Capybara-POM
